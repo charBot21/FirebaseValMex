@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "730682063492",
+    "project_id": "demovalmex-a2e50",
+    "storage_bucket": "demovalmex-a2e50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730682063492:android:3ba73140bbc47b5e3560d1",
+        "android_client_info": {
+          "package_name": "com.carlostorres.valmexdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730682063492-gpu18d549759148gfc1adq62ef3k0e8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbVhS_9GGYQgQteXdPpAzc4i50MKDbhn0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730682063492-gpu18d549759148gfc1adq62ef3k0e8d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
